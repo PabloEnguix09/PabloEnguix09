@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Pablo Enguix Llopis</h1>
+<h1 align="center">Pablo Enguix Llopis</h1>
 <h3 align="center">Desarrollador Full-Stack en Valencia, España</h3>
 
 - 🔭 Actualmente trabajo como Desarrollador web Full-Stack en [Sercomgas](https://www.sercomgas.com)
