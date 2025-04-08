@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, soy Pablo Enguix Llopis</h1>
 <h3 align="center">Desarrollador Full-Stack en Valencia, España</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pabloenguix09" alt="pabloenguix09" /></a> </p>
-
 - 🔭 Actualmente trabajo como Desarrollador web Full-Stack en [Sercomgas](https://www.sercomgas.com)
 
 - 🌱 Actualmente estoy aprendiendo **React, TypeScript, Node**
